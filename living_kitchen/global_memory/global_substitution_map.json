@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "last_global_update": "T0",
+    "confidence_delta_bounds": [0.01, 0.05]
+  },
+  "substitutions": [
+    {
+      "ingredient": "short_ribs",
+      "diet": "vegetarian",
+      "substitute": "smoked_king_oyster_mushroom",
+      "confidence": 0.68
+    },
+    {
+      "ingredient": "short_ribs",
+      "diet": "keto",
+      "substitute": "beef_cheek",
+      "confidence": 0.92
+    },
+    {
+      "ingredient": "anchovy_fillets",
+      "diet": "vegan",
+      "substitute": "kombu_soy_reduction",
+      "confidence": 0.72
+    },
+    {
+      "ingredient": "brown_sugar",
+      "diet": "keto",
+      "substitute": "allulose_brown_blend",
+      "confidence": 0.62
+    },
+    {
+      "ingredient": "dairy_chocolate",
+      "diet": "dairy_free",
+      "substitute": "85_percent_dairy_free_cacao",
+      "confidence": 0.90
+    }
+  ]
+}

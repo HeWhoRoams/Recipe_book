@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "last_global_update": "T0",
+    "update_delta_range": [0.01, 0.05]
+  },
+  "ingredients": {
+    "ING-001": {
+      "name": "short_ribs",
+      "baseline_confidence": 0.92,
+      "preferred_substitute": "beef_cheek"
+    },
+    "ING-002": {
+      "name": "kidney_beans",
+      "baseline_confidence": 0.88,
+      "preferred_substitute": "pinto_beans"
+    },
+    "ING-003": {
+      "name": "ancho_chile",
+      "baseline_confidence": 0.95,
+      "preferred_substitute": "pasilla_negro"
+    },
+    "ING-014": {
+      "name": "anchovy_fillets",
+      "baseline_confidence": 0.75,
+      "preferred_substitute": "white_miso"
+    },
+    "ING-021": {
+      "name": "brown_sugar",
+      "baseline_confidence": 0.80,
+      "preferred_substitute": "piloncillo"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "timestamp": "T0",
+    "units": "per gram"
+  },
+  "ingredients": {
+    "beef_short_ribs_raw":       { "kcal_per_g": 2.90, "protein_per_g": 0.20, "fat_per_g": 0.23, "carb_per_g": 0.00, "fiber_per_g": 0.00, "sodium_per_g": 0.75 },
+    "onion_raw":                 { "kcal_per_g": 0.40, "protein_per_g": 0.01, "fat_per_g": 0.00, "carb_per_g": 0.09, "fiber_per_g": 0.01, "sodium_per_g": 0.02 },
+    "garlic_raw":                { "kcal_per_g": 1.49, "protein_per_g": 0.06, "fat_per_g": 0.00, "carb_per_g": 0.33, "fiber_per_g": 0.02, "sodium_per_g": 0.02 },
+    "kidney_beans_dry":          { "kcal_per_g": 3.30, "protein_per_g": 0.23, "fat_per_g": 0.01, "carb_per_g": 0.60, "fiber_per_g": 0.20, "sodium_per_g": 0.01 },
+    "kidney_beans_cooked":       { "kcal_per_g": 1.27, "protein_per_g": 0.09, "fat_per_g": 0.00, "carb_per_g": 0.22, "fiber_per_g": 0.08, "sodium_per_g": 0.02 },
+    "olive_oil":                 { "kcal_per_g": 8.84, "protein_per_g": 0.00, "fat_per_g": 0.98, "carb_per_g": 0.00, "fiber_per_g": 0.00, "sodium_per_g": 0.00 },
+    "vegetable_oil":             { "kcal_per_g": 8.80, "protein_per_g": 0.00, "fat_per_g": 0.98, "carb_per_g": 0.00, "fiber_per_g": 0.00, "sodium_per_g": 0.00 },
+    "butter":                    { "kcal_per_g": 7.17, "protein_per_g": 0.01, "fat_per_g": 0.81, "carb_per_g": 0.00, "fiber_per_g": 0.00, "sodium_per_g": 0.08 },
+    "unsweetened_chocolate":     { "kcal_per_g": 6.00, "protein_per_g": 0.08, "fat_per_g": 0.50, "carb_per_g": 0.34, "fiber_per_g": 0.17, "sodium_per_g": 0.00 },
+    "coffee_dry":                { "kcal_per_g": 2.00, "protein_per_g": 0.13, "fat_per_g": 0.02, "carb_per_g": 0.30, "fiber_per_g": 0.20, "sodium_per_g": 0.01 },
+    "tomato_paste":              { "kcal_per_g": 0.82, "protein_per_g": 0.04, "fat_per_g": 0.00, "carb_per_g": 0.18, "fiber_per_g": 0.05, "sodium_per_g": 0.12 },
+    "crushed_tomatoes":          { "kcal_per_g": 0.40, "protein_per_g": 0.01, "fat_per_g": 0.00, "carb_per_g": 0.09, "fiber_per_g": 0.02, "sodium_per_g": 0.04 },
+    "brown_sugar":               { "kcal_per_g": 3.80, "protein_per_g": 0.00, "fat_per_g": 0.00, "carb_per_g": 0.99, "fiber_per_g": 0.00, "sodium_per_g": 0.00 },
+    "cider_vinegar":             { "kcal_per_g": 0.21, "protein_per_g": 0.00, "fat_per_g": 0.00, "carb_per_g": 0.01, "fiber_per_g": 0.00, "sodium_per_g": 0.01 },
+    "marmite":                   { "kcal_per_g": 2.30, "protein_per_g": 0.28, "fat_per_g": 0.03, "carb_per_g": 0.17, "fiber_per_g": 0.09, "sodium_per_g": 3.60 },
+    "anchovy":                   { "kcal_per_g": 1.05, "protein_per_g": 0.29, "fat_per_g": 0.06, "carb_per_g": 0.00, "fiber_per_g": 0.00, "sodium_per_g": 6.00 },
+    "mushroom_king_oyster":      { "kcal_per_g": 0.40, "protein_per_g": 0.03, "fat_per_g": 0.00, "carb_per_g": 0.08, "fiber_per_g": 0.03, "sodium_per_g": 0.02 },
+    "black_soy_beans_canned":    { "kcal_per_g": 1.40, "protein_per_g": 0.13, "fat_per_g": 0.07, "carb_per_g": 0.08, "fiber_per_g": 0.07, "sodium_per_g": 0.15 },
+    "chicken_broth":             { "kcal_per_g": 0.08, "protein_per_g": 0.01, "fat_per_g": 0.00, "carb_per_g": 0.01, "fiber_per_g": 0.00, "sodium_per_g": 0.35 },
+    "veg_stock":                 { "kcal_per_g": 0.05, "protein_per_g": 0.00, "fat_per_g": 0.00, "carb_per_g": 0.01, "fiber_per_g": 0.00, "sodium_per_g": 0.25 }
+  }
+}

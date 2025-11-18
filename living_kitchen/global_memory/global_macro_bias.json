@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "last_global_update": "T0"
+  },
+  "bias_factors": {
+    "beef_short_rib": {
+      "calories_per_100g": 290,
+      "protein": 20,
+      "fat": 23,
+      "carbs": 0,
+      "fiber": 0,
+      "sodium": 75
+    },
+    "kidney_beans_cooked": {
+      "calories_per_100g": 127,
+      "protein": 8.7,
+      "fat": 0.5,
+      "carbs": 22,
+      "fiber": 8,
+      "sodium": 2
+    },
+    "mushroom_burnt_ends": {
+      "calories_per_100g": 90,
+      "protein": 6,
+      "fat": 3,
+      "carbs": 12,
+      "fiber": 3,
+      "sodium": 15
+    },
+    "black_soy_beans": {
+      "calories_per_100g": 140,
+      "protein": 13,
+      "fat": 7,
+      "carbs": 8,
+      "fiber": 7,
+      "net_carbs": 1
+    }
+  }
+}

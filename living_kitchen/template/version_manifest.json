@@ -1,0 +1,15 @@
+{
+  "dish_name": "",
+  "truth_source_file": "original.md",
+  "truth_source_hash": "",
+  "last_run_timestamp": "T0",
+  "baseline_version": "v0",
+  "variant_versions": {
+    "weeknight": "v0",
+    "marriage": "v0",
+    "vegetarian": "v0",
+    "vegan": "v0",
+    "dairyfree": "v0",
+    "keto": "v0"
+  }
+}

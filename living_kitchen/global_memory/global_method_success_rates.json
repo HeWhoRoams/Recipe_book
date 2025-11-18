@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "last_global_update": "T0"
+  },
+  "methods": [
+    {
+      "name": "pressure_cook_braise",
+      "success_rate": 0.93,
+      "time_adjustment_minutes": -60,
+      "warning": "Ensure natural release for 5 minutes to protect bean skins."
+    },
+    {
+      "name": "sous_vide_short_rib",
+      "success_rate": 0.88,
+      "time_adjustment_minutes": 2160,
+      "warning": "Finish with high-heat sear to meet Maillard depth."
+    },
+    {
+      "name": "dutch_oven_braise",
+      "success_rate": 0.96,
+      "time_adjustment_minutes": 0,
+      "warning": "Stir every 20 minutes to avoid bean sticking."
+    }
+  ]
+}

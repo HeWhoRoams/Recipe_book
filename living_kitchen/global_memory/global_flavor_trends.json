@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "schema_version": "1.0",
+    "last_global_update": "T0"
+  },
+  "trending_axes": {
+    "sweet": -0.2,
+    "sour": 0.1,
+    "bitter": 0.05,
+    "salty": 0,
+    "umami": 0.15,
+    "heat": 0.1
+  },
+  "notes": [
+    "Consumers favor brighter acidity in hearty chilis.",
+    "Slight bitterness welcomed when paired with coffee/chocolate.",
+    "Elevated umami expected through fermented components."
+  ]
+}
