@@ -20,6 +20,20 @@ Central conductor for The Living Kitchen Framework v3.1. Maintains deterministic
 3. Cap total iterations per stage at two; abort when maximum reached without compliance.
 4. Record every state transition and include deterministic timestamp token `T0`.
 5. Do not fabricate data; only use provided artifacts.
+6. Macro placeholder policy: treat `Macro Estimate (per serving)` blocks as non-normative placeholders only. Do not require recipes to contain computed macro values for the pipeline to continue; absence or placeholder values must not by themselves cause rejection. When inserting a placeholder, agents must use the canonical placeholder block exactly as specified (use `TBD` for all numeric fields):
+
+```
+## Macro Estimate (per serving)
+- Calories: TBD
+- Protein (g): TBD
+- Fat (g): TBD
+- Carbohydrates (g): TBD
+- Net Carbs (g): TBD
+- Fiber (g): TBD
+- Sodium (mg): TBD
+- Serving size (g): TBD
+```
+Agents must not replace `TBD` with computed values unless the macro feature is explicitly enabled in a future change.
 
 ## Workflow
 1. Validate prerequisite FlavorProfile and IngredientOntology; abort with rejection notice if absent.

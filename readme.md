@@ -60,7 +60,7 @@ All files carry explicit version numbers and timestamps.
 
 ```
 mkdir recipes/my_new_dish
-cp template/original.md recipes/my_new_dish/original.md
+cp living_kitchen/templates/original.md recipes/my_new_dish/original.md
 ```
 
 Populate `original.md` with:
